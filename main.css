@@ -1,0 +1,10 @@
+.image{
+    width:100px !important;
+    height: 100px !important;
+    object-fit: contain;
+}
+.imageabout{
+        width: 70px !important;
+            height: 70px !important;
+            object-fit: contain;
+}
